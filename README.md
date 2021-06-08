@@ -1,5 +1,5 @@
 # KPT (Key Press Timer)
-A lightweight utility to time how long the last pressed key of a keyboard has been held down.
+A lightweight utility to time how long the most recently pressed key of a keyboard has been held down.
 
 This software is written in Java and runs on all Windows, Linux and macOS machines.
 
