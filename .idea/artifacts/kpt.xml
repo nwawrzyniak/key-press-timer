@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact build-on-make="true" name="kpt">
+    <output-path>$PROJECT_DIR$/out/artifacts/kpt</output-path>
+    <root id="root">
+      <element id="directory" name="lib">
+        <element id="library" level="project" name="jnativehook-2.1.0" />
+      </element>
+      <element id="archive" name="kpt.jar">
+        <element id="module-output" name="key-press-timer" />
+        <element id="directory" name="META-INF">
+          <element id="file-copy" path="$PROJECT_DIR$/src/main/java/META-INF/MANIFEST.MF" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
