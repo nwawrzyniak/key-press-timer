@@ -5,4 +5,4 @@ This software is written in Java and runs on all Windows, Linux and macOS machin
 
 ## Download
 
-[Get the latest release here](https://github.com/nwawrzyniak/kpt/releases/latest)
+[Get the latest release here.](https://github.com/nwawrzyniak/kpt/releases/latest)
